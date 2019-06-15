@@ -197,4 +197,6 @@ function derivative (expr)
     return self
 end
 
+//lua é um saco mano, para com isso
+
 
